@@ -2,4 +2,4 @@ server:
   version: 1
   
 database:
-  url: 123456---------修改后-version=sml.1-SNOTSHOP
+  url: 123456---------version=sml.1-SNOTSHOP
